@@ -3,7 +3,7 @@
 <h1> Эндовский корабль </h1>
 Изменения в ванильном эндовском корабле<br><br>
 
-![image](https://github.com/LumonCorporation/Custom_Structures/blob/main/files/2024-11-17_20.00.21.png)
+![image](https://github.com/Slarof/Custom_Structures/blob/main/files/2024-11-17_20.00.21.png)
 </div>
 
 # Нововведения
