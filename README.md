@@ -7,8 +7,8 @@
 
 | Minecraft | Custom Structures |
 | :-: | :-: |
-| Джунглевая пирамида | Погребенные под песком руины |
-| Эндовский корабль | Хижина иллюзиониста |
+| [Джунглевая пирамида](https://github.com/Slarof/Custom_Structures/blob/main/docs/minecraft/jungle_pyramid.md) | [Погребенные под песком руины](https://github.com/Slarof/Custom_Structures/blob/main/docs/structures/buried_ruins_sand.md) |
+| [Эндовский корабль](https://github.com/Slarof/Custom_Structures/blob/main/docs/minecraft/end_ship.md) | [Хижина иллюзиониста](https://github.com/Slarof/Custom_Structures/blob/main/docs/structures/illusioner_shack.md) |
 
 </td> </table>
 </div>
