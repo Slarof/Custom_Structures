@@ -2,7 +2,7 @@
 
 <h1> Погребенные под песком руины </h1>
 
-![image](https://github.com/LumonCorporation/Custom_Structures/blob/main/files/2024-11-17_20.58.21.png)
+![image](https://github.com/Slarof/Custom_Structures/blob/main/files/2024-11-17_20.58.21.png)
 </div>
 
 # Нововведения
