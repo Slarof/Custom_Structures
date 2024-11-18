@@ -3,7 +3,7 @@
 <h1> Custom Structures </h1>
 Добавляет и изменяет некоторые ванильные структуры <br><br>
 
-![image](https://github.com/Slarof/Custom_Structures/blob/main/files/2024-11-17_20.00.21.png) <br>
+![image](https://github.com/Slarof/Custom_Structures/blob/main/files/Custom_Structures.png) <br>
 </div>
 
 
