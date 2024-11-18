@@ -2,6 +2,8 @@
 
 <h1> Хижина иллюзиониста </h1>
 
+Credits: [Friends & Foes](https://modrinth.com/mod/friends-and-foes)
+
 ![image](https://github.com/Slarof/Custom_Structures/blob/main/files/structures/illusioner_shack.png)
 </div>
 
