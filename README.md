@@ -10,11 +10,11 @@
 
 ### Изменения
 - Структуры из Minecraft
-  - [Джунглевая пирамида](https://github.com/Slarof/Custom_Structures/blob/main/docs/minecraft/jungle_pyramid.md)
-  - [Эндовский корабль](https://github.com/Slarof/Custom_Structures/blob/main/docs/minecraft/end_ship.md)
+  - [Джунглевая пирамида](https://github.com/Slarof/Custom_Structures/blob/main/docs/jungle_pyramid.md)
+  - [Эндовский корабль](https://github.com/Slarof/Custom_Structures/blob/main/docs/end_ship.md)
 - Структуры из Custom Structures
-  - [Погребенные под песком руины](https://github.com/Slarof/Custom_Structures/blob/main/docs/structures/buried_ruins_sand.md)
-  - [Хижина иллюзиониста](https://github.com/Slarof/Custom_Structures/blob/main/docs/structures/illusioner_shack.md)
+  - [Погребенные под песком руины](https://github.com/Slarof/Custom_Structures/blob/main/docs/buried_ruins_sand.md)
+  - [Хижина иллюзиониста](https://github.com/Slarof/Custom_Structures/blob/main/docs/illusioner_shack.md)
 
 ### Применения
 - Хочется разнообразить игру или сделать свои структуры, основываясь на датапаке
